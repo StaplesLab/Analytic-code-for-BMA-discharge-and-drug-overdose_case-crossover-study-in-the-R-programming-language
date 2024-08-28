@@ -1,6 +1,6 @@
 ###########################################################
 # This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
-# Suggested citation: Hu X, Yu Y, Khan M, Daly-Grafstein D, Erdelyi S, Staples JA. AMA-OD_cco create medication variables. 2023 Sep 8. Retrieved from: ***LINK*** 
+# Suggested citation: Hu X, Yu Y, Khan M, Daly-Grafstein D, Erdelyi S, Staples JA. AMA-OD_cco create medication variables. 2023 Sep 8. Retrieved from: https://github.com/StaplesLab/Analytic-code-for-BMA-discharge-and-drug-overdose_case-crossover-study-in-the-R-programming-language/edit/main/AMA-OD_cco%202b%20Create%20variable%20-%20medications%20v1.R 
 # Create medication variables
 # Author: Xiao (Nicole) Hu 
 # Date: 2023-09-08
