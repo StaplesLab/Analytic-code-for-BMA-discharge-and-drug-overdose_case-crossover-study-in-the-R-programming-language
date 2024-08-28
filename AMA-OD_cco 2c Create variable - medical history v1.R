@@ -1,6 +1,6 @@
 ###########################################################
 # This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
-# Suggested citation: Hu X, Yu Y, Khan M, Daly-Grafstein D, Erdelyi S, Staples JA. AMA-OD_cco create medical history variables. 2023 Sep 20. Retrieved from: ***LINK*** 
+# Suggested citation: Hu X, Yu Y, Khan M, Daly-Grafstein D, Erdelyi S, Staples JA. AMA-OD_cco create medical history variables. 2023 Sep 20. Retrieved from: https://github.com/StaplesLab/Analytic-code-for-BMA-discharge-and-drug-overdose_case-crossover-study-in-the-R-programming-language/edit/main/AMA-OD_cco%202c%20Create%20variable%20-%20medical%20history%20v1.R 
 # Create medical history variables
 # Author: Xiao (Nicole) Hu 
 # Date: 2023-09-08
